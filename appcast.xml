@@ -63,5 +63,24 @@
                 type="application/octet-stream"/>
         </item>
 
+            <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[
+                <h2>New in 1.0</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 20 Dec 2025 14:48:00 +0000</pubDate>
+            <sparkle:version>137</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/halldorg/saferag-releases/releases/download/v1.0.137/SafeRag-1.0.137.zip"
+                sparkle:edSignature=""
+                length="187547577"
+                type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
