@@ -477,7 +477,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/halldorg/saferag-releases/releases/download/v1.0.168/SafeRag-1.0.168.zip"
-                sparkle:edSignature=""
+                sparkle:edSignature="6J/i8UMV7HYM7a+Ie7Tu0qAJhQKjsKIJrwybVhj48RRoYrWM35jVlHnl8Yobbr9rR5HHyddqPFeNWwQvcIvNBg=="
                 length="187577658"
                 type="application/octet-stream"/>
         </item>
