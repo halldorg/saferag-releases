@@ -539,5 +539,25 @@
                 type="application/octet-stream"/>
         </item>
 
+            <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[
+                <h2>Build 173</h2>
+                <ul>
+                    <li>Fixed: Logout no longer deletes encryption password (prevents data loss)</li>
+                    <li>Improved: Keychain access retry mechanism for post-update stability</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 26 Jan 2026 15:52:00 +0000</pubDate>
+            <sparkle:version>173</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/halldorg/saferag-releases/releases/download/v1.0.173/SafeRag-1.0.173.zip"
+                sparkle:edSignature="uZTYlmLeendFNR+y4BDAgJWBbCG3h5/PZapcD8aQfsuGaR/6ZYHMGCI9t0DsfSa/u2gFCD9qwBqcDvtQhdflDw=="
+                length="187589333"
+                type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
