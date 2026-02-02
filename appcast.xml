@@ -599,5 +599,24 @@
                 type="application/octet-stream"/>
         </item>
 
+            <item>
+            <title>Version 1.0.177 (Build 177)</title>
+            <description><![CDATA[
+                <h2>Build 177</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Feb 2026 20:26:36 +0000</pubDate>
+            <sparkle:version>177</sparkle:version>
+            <sparkle:shortVersionString>1.0.177</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/halldorg/saferag-releases/releases/download/v1.0.177.177/SafeRag-1.0.177.177.zip"
+                sparkle:edSignature="uMXQ4G+vP5e1Ymt7ZuwuCXAueMWv8/2XqJT6pwQ3WiV6jBtoJAig7cDjE6jN8URZvNU07mdkZVVnlHyG7vX2Aw=="
+                length="187812032"
+                type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
