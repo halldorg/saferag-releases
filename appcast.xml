@@ -637,5 +637,24 @@
                 type="application/octet-stream"/>
         </item>
 
+            <item>
+            <title>Version 1.0.180 (Build 180)</title>
+            <description><![CDATA[
+                <h2>Build 180</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 05 Feb 2026 20:28:44 +0000</pubDate>
+            <sparkle:version>180</sparkle:version>
+            <sparkle:shortVersionString>1.0.180</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/halldorg/saferag-releases/releases/download/v1.0.180.180/SafeRag-1.0.180.180.zip"
+                sparkle:edSignature="ah73VXgf2uWjEvZWBlUgHpclM4wQOsHtI1RZJ+yq7fGtXHErocjU3zkDkO/Cib+Hf4xqLcKNdgRxwxLTNjOmCA=="
+                length="187836665"
+                type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
