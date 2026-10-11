@@ -718,5 +718,25 @@
                 type="application/octet-stream"/>
         </item>
 
+            <item>
+            <title>Version 1.1.184 (Build 184)</title>
+            <description><![CDATA[
+                <h2>SafeRag 1.1.184</h2>
+                <ul>
+                    <li>Fixed: the chat no longer goes blank after a conversation loads or a message is sent.</li>
+                    <li>A streaming answer stays in view as it is written. Scroll up to read earlier messages and SafeRag stops following until you scroll back down.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Oct 2026 16:33:09 +0000</pubDate>
+            <sparkle:version>184</sparkle:version>
+            <sparkle:shortVersionString>1.1.184</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/halldorg/saferag-releases/releases/download/v1.1.184.184/SafeRag-1.1.184.184.zip"
+                sparkle:edSignature="K9h4nmV2nLaGgxcuBTGs3p46skUByIIhC2opwEaLgTAPaTveKtMVj4a1SgVapQ3+DDcW2hUxzvdp7eiTYOojDg=="
+                length="431610536"
+                type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
