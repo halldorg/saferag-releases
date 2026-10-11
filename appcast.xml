@@ -694,5 +694,29 @@
                 type="application/octet-stream"/>
         </item>
 
+            <item>
+            <title>Version 1.1.183 (Build 183)</title>
+            <description><![CDATA[
+                <h2>SafeRag 1.1</h2>
+                <ul>
+                    <li><b>Encrypted storage</b> – everything SafeRag stores (database, documents, search indexes, backups, audit log) is kept in an AES-256 encrypted disk image that is open only while SafeRag runs. Existing data is moved into it on first launch.</li>
+                    <li><b>New recommended models</b> – Qwen3.5 4B on 8 GB Macs, Gemma 4 E4B on 16 GB or more, with Qwen3.5 9B and Gemma 4 12B as alternatives.</li>
+                    <li><b>Thinking Mode works</b>, every chat gets an 8K context window (16K with 32 GB or more), and answers from documents cite the document and page.</li>
+                    <li><b>Enhanced retrieval</b> – download bge-m3 in Models for multilingual hybrid search with reranking.</li>
+                    <li>OCR works offline and recognises Icelandic. 7-day trial of all Pro features.</li>
+                    <li>Fixed: Settings tabs on macOS 27, answers stopping early, and speed ratings on M5 Macs. Documents are private to the account that uploaded them, and SafeRag sends no analytics or crash data.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 11 Oct 2026 12:34:38 +0000</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>1.1.183</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/halldorg/saferag-releases/releases/download/v1.1.183.183/SafeRag-1.1.183.183.zip"
+                sparkle:edSignature="m7Jjjs9ynl9wfOfDCDACr2H8znH6pcLjuj2oQnvqfPNHvoEgBAq0WDolo45yqK0NwN9ZnnTMCMePn7N7x3vIAA=="
+                length="431614718"
+                type="application/octet-stream"/>
+        </item>
+
     </channel>
 </rss>
